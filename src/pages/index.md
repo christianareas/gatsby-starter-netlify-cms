@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: This looks like a coffee site.
+title: This is not a coffee site.
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
